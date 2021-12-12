@@ -1,0 +1,60 @@
+#logomain {
+    border-radius: 50%;
+    margin-left: 46%;
+    margin-top: 15px;
+}
+#stimg {
+    margin-top: 9px;
+    height: 229px;
+}
+#video1{
+    
+        margin-top: -214px;
+       float: right;
+
+    
+}
+.head{
+    margin-top: 40px;
+    margin-left: 6px;
+}
+#start{
+    text-size-adjust: 5px;
+    margin-left: 6px;
+
+}
+.map{
+    margin-left: 6px;
+}
+#footer {
+    color: black;
+    background-color: #edebf1;
+    padding: 10px;
+}
+.headingfooter {
+    text-align: center;
+    font-weight: 300;
+    font-family: inherit;
+}
+.listoffooter{
+    list-style: none;
+}
+#body{
+    margin: 0px;
+}
+.banner{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.ourlinks {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+/* .facebook_logo {
+    fill: white;
+    stroke: black;
+    display: inline-block;
+    width: 22px;
+    height: 40px;
+} */
